@@ -8,10 +8,10 @@ My name is Kaio Cesar, I'm from Brazil 🇧🇷. I have been working with web de
 
 ## 👨🏽‍💻 I have experience with 🧠:
 
-✔️ <img src="https://img.shields.io/badge/-HTML5-0d1117?logo=html5&logoColor=E34F26&style=for-the-badge" />
-✔️ <img src="https://img.shields.io/badge/-CSS3-0d1117?logo=css3&logoColor=1572B6&style=for-the-badge" />
-✔️ <img src="https://img.shields.io/badge/-JavaScript-0d1117?logo=javascript&logoColor=f7df1e&style=for-the-badge" />
-✔️ <img src="https://img.shields.io/badge/-ReactJS-0d1117?logo=react&logoColor=61DAFB&style=for-the-badge" />
+-✔️ <img src="https://img.shields.io/badge/-HTML5-0d1117?logo=html5&logoColor=E34F26&style=for-the-badge" />
+-✔️ <img src="https://img.shields.io/badge/-CSS3-0d1117?logo=css3&logoColor=1572B6&style=for-the-badge" />
+-✔️ <img src="https://img.shields.io/badge/-JavaScript-0d1117?logo=javascript&logoColor=f7df1e&style=for-the-badge" />
+-✔️ <img src="https://img.shields.io/badge/-ReactJS-0d1117?logo=react&logoColor=61DAFB&style=for-the-badge" />
 
 ## 🤳🏽 Social medias 🔗:
 
